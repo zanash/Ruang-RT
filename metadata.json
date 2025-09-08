@@ -1,0 +1,5 @@
+{
+  "name": "Aplikasi Database Warga RT",
+  "description": "Sebuah aplikasi web untuk mengelola data warga di lingkungan Rukun Tetangga (RT). Memungkinkan penambahan, penyuntingan, dan penghapusan data warga, serta pengelolaan daftar pilihan untuk berbagai kategori data.",
+  "requestFramePermissions": []
+}
